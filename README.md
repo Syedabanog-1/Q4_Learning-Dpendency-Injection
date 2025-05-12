@@ -1,6 +1,7 @@
 # Q4_Learning-Dpendency-Injection
 
 ✅ What is Dependency Injection (DI)?
+
 Dependency Injection (DI) is a design pattern where an object or function receives its dependencies from an external source, rather than creating them internally.
 
 In simple terms:
